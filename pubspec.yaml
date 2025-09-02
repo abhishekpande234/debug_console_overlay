@@ -1,6 +1,6 @@
 
 name: debug_console_overlay
-description: "A lightweight in-app debug overlay for Flutter showing logs in a floating console (disabled in release). MVP: draggable bubble, logs panel, search & filters, print/FlutterError capture helper."
+description: "A lightweight in-app debug overlay for Flutter showing logs in a floating console (disabled in release). MVP: draggable bubble,logs panel, network panel, search & filters, print/FlutterError capture helper."
 version: 0.1.0
 homepage: https://github.com/abhishekpande234/debug_console_overlay
 repository: https://github.com/abhishekpande234/debug_console_overlay

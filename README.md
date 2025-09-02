@@ -6,6 +6,7 @@ A lightweight, draggable **debug console overlay** for Flutter. It shows logs in
 ## Features (v0.1.0)
 - Floating **bubble** that opens a bottom **panel**
 - **Logs tab** with search and level/tag filters
+- **Network tab** allows api request logging 
 - Capture **FlutterError** automatically
 - Optional helper to capture `print()` output via a **Zone**
 - **Ring buffer** (keeps last N logs) for performance
